@@ -1,1 +1,148 @@
+<!DOCTYPE html>
+<html>
+    <style>
 
+        @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+        #cima{background-color: black ;
+        text-align: center}
+        #titulo{font-family: 'Roboto Slab', serif;
+        text-align: center}
+    </style>
+
+    <head>
+        <title>Copa do Mundo 2023 - Seleções femininas de futebol</title>
+    </head>
+
+    <body>
+        <div id="cima">
+            <img src="https://upload.wikimedia.org/wikipedia/pt/f/fb/Logo_of_the_2023_FIFA_Women%27s_World_Cup.png" alt="FIFA Women's World Cup" height="12%" width="12%" /> 
+        </div>   
+    
+        <div id="titulo">
+            <h1>Copa do Mundo 2023 - Seleções femininas de futebol</h1> 
+        </div>
+        
+        <hr>
+
+        <br>
+        <a href="file:///C:/Users/debor/OneDrive/%C3%81rea%20de%20Trabalho/Copa%202023/Sele%C3%A7%C3%A3o%20Sul-Africana.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/255px-Flag_of_South_Africa.svg.png" alt="África do Sul - Imagem" title="África do Sul" height="10%" width="10%"></a> 
+        <br>
+
+        <br>
+        <a href="file:///C:/Users/debor/OneDrive/%C3%81rea%20de%20Trabalho/Copa%202023/Seele%C3%A7%C3%A3o%20da%20Alemanha.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/255px-Flag_of_Germany.svg.png" alt="Alemanha - Imagem" title ="Alemanha" height="10%" width="10%"></a>
+        <br>
+
+        <br>
+        <a href="file:///C:/Users/debor/OneDrive/%C3%81rea%20de%20Trabalho/Copa%202023/argentina.html"> <img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/01/bandeira-da-argentina.jpg" alt="Argentina - Imagem" title = "Argentina" height="10%" width="10%"></a>
+        <br>
+
+        <br>
+        <a href="file:///C:/Users/debor/OneDrive/%C3%81rea%20de%20Trabalho/Copa%202023/Austr%C3%A1lia.html"> <img src="https://www.estudopratico.com.br/wp-content/uploads/2017/03/significado-da-bandeira-da-australia-1200x675.jpg" alt="Austrália - Imagem" title= "Austrália" height="10%" width="10%"></a>
+        <br>
+
+        <br>
+        <a href="file:///C:/Users/debor/OneDrive/%C3%81rea%20de%20Trabalho/Copa%202023/Sele%C3%A7%C3%A3o%20Brasileira%20-%20Convocadas.html"> <img src="https://static.todamateria.com.br/upload/ba/nd/bandeira-do-brasil-og.jpg" alt="Brasil" title= "Brasil" height="10%" width="10%"></a>
+        <br>
+
+        <br>
+        <a href=> <img src="https://s3.static.brasilescola.uol.com.br/be/2022/10/bandeira-do-canada.jpg" alt="Canadá - Imagem" title="Canadá" height="10%" width="10%"></a> 
+        <br>
+
+        <br>
+        <a href=> <img src="https://www.estudopratico.com.br/wp-content/uploads/2016/02/bandeira-china-1.jpg" alt="China - Imagem" title="China" height="10%" width="10%"></a> 
+        <br>
+
+        <br>
+        <a href=> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/255px-Flag_of_Colombia.svg.png" alt="Colômbia - Imagem" title= "Colômbia" height="10%" width="10%"></a>
+        <br>
+
+        <br>
+        <a href=""> <img src="https://s3.static.brasilescola.uol.com.br/be/2022/11/bandeira-da-coreia-do-sul.jpg" alt= "Coreia do Sul - Imagem" title="Coreia do Sul" height="10%" width="10%"></a>
+        <br>
+
+        <br>
+        <a href=""> <img src="https://s4.static.brasilescola.uol.com.br/be/2022/10/bandeira-da-costa-rica.jpg" alt= "Costa Rica - Imagem" title="Costa Rica" height="10%" width="10%"></a>
+        <br>
+
+        <br>
+        <a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/225px-Flag_of_Denmark.svg.png" alt= "Dinamarca - Imagem" title="Dinamarca" height="10%" width="10%"></a>
+        <br>
+
+        <br>
+        <a href=""> <img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg" alt="Estados Unidos (EUA) - Imagem" title="Estados Unidos" height="10%" width="10%"></a> 
+        <br>
+
+        <br>
+        <a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/255px-Flag_of_the_Philippines.svg.png" alt="Filipinas - Imagem" title="Filipinas" height="10%" width="10%"></a>
+        <br>
+      
+        <br>
+        <a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/255px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png" alt="França - Imagem" tilte="França" height="10%" width="10%"></a> 
+        <br>
+        
+        <br>
+        <a href=""> <img src="https://geo5.net/imagens/bandeira-do-haiti-2000px.png" alt="Haiti - Imagem" title="Haiti" height="10%" width="10%"></a>
+        <br>
+
+        <br>
+        <a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/255px-Flag_of_the_Netherlands.svg.png" alt="Holanda - Imagem" height="10%" width="10%"></a> 
+        <br>
+
+        <br>
+        <a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/255px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" alt="Inglaterra- Imagem" title="Inglaterra" height="10%" width="10%"></a>
+        <br>
+
+        <br>
+        <a href=""> <img src="https://www.estudopratico.com.br/wp-content/uploads/2016/09/bandeira-irlanda-e1584543726944.jpg" alt="Irlanda - Imagem" title="Irlanda" height="10%" width="10%"></a>
+        <br>
+
+        <br>
+        <a href=""> <img src="https://static.todamateria.com.br/upload/ba/nd/bandeira-da-italia-og.jpg" alt="Itália - Imagem" title="Itália" height="10%" width="10%"></a>
+        <br>
+        
+        <br>
+        <a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/2560px-Flag_of_Jamaica.svg.png" alt="Jamaica - Imagem" title="Jamaica" height="10%" width="10%"></a> 
+        <br>
+
+        <br>
+        <a href=""> <img src="https://s4.static.brasilescola.uol.com.br/be/2022/11/bandeira-do-japao.jpg" alt="Japão - Imagem" title= "Japão" height="10%" width="10%"></a> 
+        <br>
+        
+        <br>
+        <a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/255px-Flag_of_Morocco.svg.png" alt="Marrocos - Imagem" title="Marrocos" height="10%" width="10%"></a>
+        <br>
+        
+        <br>
+        <a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/255px-Flag_of_Nigeria.svg.png" alt="Nigéria - Imagem" title="Nigéria" height="10%" width="10%"></a>
+        <br>
+
+        <br>
+        <a href=""> <img src="https://img.freepik.com/vetores-gratis/ilustracao-de-bandeira-noruega_53876-27115.jpg" alt="Noruega - Imagem" tilte="Noruega" height="10%" width="10%"></a>
+        <br>
+
+        <br>
+        <a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/300px-Flag_of_Panama.svg.png" alt="Panamá - Imagem" title="Panamá" height="10%" width="10%"></a> 
+        <br>
+
+        <br>
+        <a href=""> <img src="https://s1.static.brasilescola.uol.com.br/be/2022/10/bandeira-portugal-2.jpg" alt="Portugal - Imagem" title="Portugal" height="10%" width="10%"></a> 
+        <br>
+
+        <br>
+        <a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/1280px-Flag_of_Sweden.svg.png" alt="Suécia - Imagem" title="Suécia" height="10%" width="10%"></a>
+        <br>
+
+        <br>
+        <a href=""> <img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/12/1-bandeira-da-suica.jpg" alt="Suíça - Imagem" title="Suíça" height="10%" width="10%"></a>
+        <br>
+
+        <br>
+        <a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/255px-Flag_of_Vietnam.svg.png" alt="Vietnã - Imagem" title="Vietnã" height="10%" width="10%"></a>
+        <br> 
+
+        <br>
+        <a href=""> <img src="" alt="Zâmbia - Imagem" title="Zâmbia" height="10%" width="10%"></a>
+        <br> 
+    </body>
+
+</html>
